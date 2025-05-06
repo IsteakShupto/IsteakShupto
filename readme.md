@@ -19,7 +19,6 @@
 ## My Handles
 
 [<img src="https://img.shields.io/badge/shupto006-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shupto006/)
-[<img src="https://img.shields.io/badge/IsteakShupto-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/IsteakShupto)
 [<img src="https://img.shields.io/badge/QuirkSolver-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/QuirkSolver)
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
