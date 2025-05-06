@@ -1,10 +1,10 @@
-### About Me
+### Competitive programming journey
 
-- [linkedin/shupto006](https://www.linkedin.com/in/shupto006/)
+#### Solved over 1200+ problems across various online judges.
 
-### My Github Stats
+#### Participated in over 70 contests and continue to sharpen my problem-solving skills.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IsteakShupto&show_icons=true&count_private=true&theme=dark" alt="IsteakShupto" />
+#### Profile link: [QuirkSolver](https://codeforces.com/profile/QuirkSolver)
 
 ### My Stacks
 
@@ -28,3 +28,11 @@
  <!--  TOP LANGUAGES STATISTICS -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsteakShupto&theme=dark&layout=compact&align=right&width=40%)](https://github.com/IsteakShupto/github-readme-stats)
+
+### My Github Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IsteakShupto&show_icons=true&count_private=true&theme=dark" alt="IsteakShupto" />
+
+### Contact Me
+
+- [linkedin/shupto006](https://www.linkedin.com/in/shupto006/)
